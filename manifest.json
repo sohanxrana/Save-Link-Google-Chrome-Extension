@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Save Links",
+  "description": "Save all links you needed for Future",
+  "version": "1.0",
+  "action": {
+    "default_icon": "link-icon.png",
+    "default_popup": "index.html",
+    "default_title": "Save Link"
+  },
+  "permissions": ["tabs"]
+}
