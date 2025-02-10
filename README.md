@@ -11,7 +11,7 @@
 
 ## 🚀 Installation  
 
-1. **Clone the repository** git clone https://github.com/sohanxrana/save-link-extension.git
+1. **Clone the repository** git clone https://github.com/sohanxrana/Save-Link-Google-Chrome-Extension.git
 2. **Open Chrome and go to** => chrome://extensions/ 
 3. **Enable Developer Mode** (top right corner)  
 4. **Click on "Load unpacked"**  
